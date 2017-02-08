@@ -1,0 +1,2 @@
+# downloadWebImage
+练习Redis和RabbitMQ时用C#写的一个从网络上下载图片的例子
