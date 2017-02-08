@@ -1,0 +1,35 @@
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\DownloadImageFromWeb.exe.config
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\DownloadImageFromWeb.exe
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\DownloadImageFromWeb.pdb
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.DownLoadImageFromWeb.resources
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.Properties.Resources.resources
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.csproj.GenerateResource.Cache
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.exe
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.pdb
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Common.dll
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Redis.dll
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Text.dll
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Common.xml
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Redis.xml
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Text.xml
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\bin\Debug\RabbitMQ.Client.xml
+C:\Users\ZGJ\documents\visual studio 2015\Projects\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.csprojResolveAssemblyReference.cache
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\DownloadImageFromWeb.exe.config
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\DownloadImageFromWeb.exe
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\DownloadImageFromWeb.pdb
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\RabbitMQ.Client.dll
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Common.dll
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Interfaces.dll
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Redis.dll
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Text.dll
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\RabbitMQ.Client.xml
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Common.xml
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Redis.xml
+F:\软件\TestDemo\DownloadImageFromWeb\bin\Debug\ServiceStack.Text.xml
+F:\软件\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.DownLoadImageFromWeb.resources
+F:\软件\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.Properties.Resources.resources
+F:\软件\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.csproj.GenerateResource.Cache
+F:\软件\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.exe
+F:\软件\TestDemo\DownloadImageFromWeb\obj\Debug\DownloadImageFromWeb.pdb
