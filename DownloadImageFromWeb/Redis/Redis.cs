@@ -7,7 +7,7 @@ namespace DownloadImageFromWeb.Redis
     {
         string host = "112.74.23.60";
         int port = 6379;
-        string password = "ZgjZll888";
+        string password = "******";
 
         public bool Add(string key, string value)
         {
